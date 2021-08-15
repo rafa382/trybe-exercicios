@@ -1,0 +1,1 @@
+Repositório dos exercícios da Rafaela que serão realizados durante o curso de desenvolvimento web da Trybe.
