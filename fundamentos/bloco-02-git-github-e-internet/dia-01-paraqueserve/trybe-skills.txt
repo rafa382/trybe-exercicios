@@ -2,5 +2,8 @@ O que eu vou aprender na trybe:
 
 -Unix
 -Bash
-_Git
-- Internet - Entendendo como ela funciona
+-Git
+-HTML
+-CSS
+-Internet - Entendendo como ela funciona
+
