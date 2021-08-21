@@ -1,0 +1,45 @@
+ol {
+    background-color: yellow;
+}
+.fonte-par{
+    color: green;
+}
+.fonte-impar{
+   text-transform: uppercase;
+}
+
+h1 , h3{
+    color: red;
+}
+h1{
+    font-size: 40px;
+    border: 1px solid black;
+}
+li{
+    font-size: 20px;
+}
+ol li {
+    font-weight: bold;
+}
+.color-text{
+    color: rgb(27, 92, 133);
+}
+.pink-bg{
+    background-color: lightpink;
+}
+
+ul li a:hover{
+font-weight: bold;
+}
+#orange:hover{
+    color: orange;
+}
+.green:hover{
+    color: rgb(49, 187, 49);
+}
+#black:hover{
+    color: black;
+}
+#yellow:hover{
+    color: yellow;
+}
