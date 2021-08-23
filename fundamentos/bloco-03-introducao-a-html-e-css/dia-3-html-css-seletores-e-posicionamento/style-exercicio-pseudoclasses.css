@@ -1,0 +1,54 @@
+/* body:hover{
+   border: solid;
+} */
+
+div1 :hover, div2 :hover, div3 :hover, div4 :hover, div5 :hover{
+      border: solid;
+
+   }
+
+div1:hover{
+   color: blue;
+   border: solid;
+   }
+
+div2:hover{
+color: green;
+border: solid;
+}
+
+div3:hover{
+   color: yellow;
+   border: solid;
+  }
+
+ div4:hover{
+    color: darkslategray;
+    border: solid;
+ } 
+
+ div5:hover{
+    color: lightcoral;
+    border: solid;
+ }
+
+ #cor-primaria{
+   font-family: 'Rampart One', cursive;
+    font-size: 50px;
+ }
+ #cor-secundaria{
+   font-family: 'Klee One', cursive;
+   font-size: 50px;
+ }
+ #cor-complementar{
+   font-family: 'Allison', cursive;
+   font-size: 150px;
+ }
+ #cor-escura{
+   font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+ }
+ #cor-clara{
+   font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+ }
