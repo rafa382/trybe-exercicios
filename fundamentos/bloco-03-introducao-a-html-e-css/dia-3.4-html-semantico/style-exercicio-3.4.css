@@ -1,0 +1,123 @@
+#titulo-tabela{
+  background-color: rgb(87, 195, 228);
+  width: 330px;
+  height: 40px;
+  text-align: center;
+  color: rgb(13, 5, 61);
+  font-weight: bold;
+  
+}
+#reino{
+    background-color: rgb(45, 141, 196);
+    width: 168px;
+    height: 20px;
+    display: inline-block;
+    text-align:center;
+    color: white; 
+}
+#animalia{
+    background-color: #27578d;
+    width: 168px;
+    height: 20px;
+    display: inline-block;
+    text-align:center;
+    color: white;
+    margin-left: 170px;
+    margin-top: -45px 
+}
+#filo{
+    background-color: #27578d;
+    width: 168px;
+    height: 20px;
+    display: inline-block;
+    text-align:center;
+    color: white;
+    margin-top: -45px;  
+}
+#arthropoda{
+    background-color: rgb(45, 141, 196);
+    width: 168px;
+    height: 20px;
+    display: inline-block;
+    text-align:center;
+    color: white;
+    margin-left: 170px;
+    margin-top: -85px 
+}
+#subfilo{
+    background-color: rgb(45, 141, 196);
+    width: 168px;
+    height: 20px;
+    display: inline-block;
+    text-align:center;
+    color: white;
+    margin-top: -85px; 
+}
+#crustacea{
+    background-color: #27578d;
+    width: 168px;
+    height: 20px;
+    display: inline-block;
+    text-align:center;
+    color: white;
+    margin-left: 170px;
+    margin-top: -125px; 
+}
+#classe{
+    background-color: #27578d;
+    width: 168px;
+    height: 20px;
+    display: inline-block;
+    text-align:center;
+    color: white;
+    margin-top: -125px;  
+}
+#malacostraca{
+    background-color: rgb(45, 141, 196);
+    width: 168px;
+    height: 20px;
+    display: inline-block;
+    text-align:center;
+    color: white;
+    margin-left: 170px;
+    margin-top: -165px 
+} 
+#subclasse{
+    background-color: rgb(45, 141, 196);
+    width: 168px;
+    height: 20px;
+    display: inline-block;
+    text-align:center;
+    color: white;
+    margin-top: -165px;  
+}
+#hoplocarida{
+    background-color: #27578d;
+    width: 168px;
+    height: 20px;
+    display: inline-block;
+    text-align:center;
+    color: white;
+    margin-left: 170px;
+    margin-top: -205px 
+}
+#ordem{
+    background-color: #27578d;
+    width: 168px;
+    height: 20px;
+    display: inline-block;
+    text-align:center;
+    color: white;
+    margin-top: -205px;  
+}
+#stomatopoda{
+    background-color: rgb(45, 141, 196);
+    width: 168px;
+    height: 20px;
+    display: inline-block;
+    text-align:center;
+    color: white;
+    margin-left: 170px;
+    margin-top: -245px;
+    font-size: 13px ;
+}
