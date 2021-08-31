@@ -65,3 +65,22 @@ console.log(verificaPalindromo("palindromo"));
 // 2 - Crie uma função que receba um array de inteiros e retorne o índice do maior valor.
 
 
+let arr = [2, 3, 6, 7, 10, 1];
+
+function indexOfMax(arr) {
+  if (arr.length === 0) {
+      return -1;
+  }
+
+  var max = arr[0];
+  var maxIndex = 0;
+
+  for (var i = 1; i < arr.length; i++) {
+      if (arr[i] > max) {
+          maxIndex = i;
+          max = arr[i];
+      }
+  }
+
+  return maxIndex;
+}
