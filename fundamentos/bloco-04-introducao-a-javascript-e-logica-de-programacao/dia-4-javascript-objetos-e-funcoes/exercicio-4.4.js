@@ -61,3 +61,7 @@ console.log(verificaPalindromo('arara'));
 console.log(verificaPalindromo("radar"));
 console.log(verificaPalindromo("reviver"));
 console.log(verificaPalindromo("palindromo"));
+
+// 2 - Crie uma função que receba um array de inteiros e retorne o índice do maior valor.
+
+
