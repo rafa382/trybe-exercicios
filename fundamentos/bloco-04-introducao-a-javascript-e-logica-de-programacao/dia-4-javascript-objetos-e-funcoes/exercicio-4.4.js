@@ -48,16 +48,6 @@ console.log(info.info2.recorrente2);
 
 //PARTE 2
  
-// function verificaPalindromo (palindromo){   
-//     if(palindromo === 'arara'){   
-//     return true;
-//    }else{   
-//     return false;  
-//   }
-// }
-
-// console.log (verificaPalindromo('gato'));
-
 function verificaPalindromo(palindromo) {     
     for(var i = 0; i < palindromo.length / 2; i++)
     if (palindromo[i] != palindromo[palindromo.length - i - 1]){
