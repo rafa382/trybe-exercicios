@@ -1,0 +1,16 @@
+.form-area{
+width: 700px;
+height: 400px;
+margin: 40px 0;
+margin-left: auto;
+margin-right: auto;
+background-color: rgb(9, 145, 149);
+border-radius: 30px;
+}
+.elements-style{
+font-family: 'Segoe UI', sans-serif; 
+color: white;
+margin-bottom: 30px;
+font-size: 23px; 
+text-align: center; 
+}
